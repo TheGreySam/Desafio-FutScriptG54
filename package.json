@@ -6,6 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGreySam/Desafio-FutScriptG54.git"
+  },
   "author": "Sebastian Gomez Letelier",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGreySam/Desafio-FutScriptG54/issues"
+  },
+  "homepage": "https://github.com/TheGreySam/Desafio-FutScriptG54#readme"
 }
